@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_utils_hero_components",
+  "info": {
+    "displayName": "HeroComponent",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "title_bold": {
+      "type": "boolean"
+    }
+  }
+}

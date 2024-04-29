@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pages",
+  "info": {
+    "singularName": "page",
+    "pluralName": "pages",
+    "displayName": "Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "meta_information": {
+      "displayName": "MetaInformation",
+      "type": "component",
+      "repeatable": false,
+      "component": "utils.meta-information"
+    },
+    "page_content": {
+      "type": "dynamiczone",
+      "components": [
+        "utils.place-holder",
+        "utils.hero-component"
+      ]
+    },
+    "slug": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_utils_meta_informations",
+  "info": {
+    "displayName": "MetaInformation",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

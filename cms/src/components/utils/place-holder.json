@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_utils_place_holders",
+  "info": {
+    "displayName": "PlaceHolder",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    }
+  }
+}
